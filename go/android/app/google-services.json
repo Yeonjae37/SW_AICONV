@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "77689841222",
+    "project_id": "apps-f390f",
+    "storage_bucket": "apps-f390f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77689841222:android:9fff0cfd04438e85bf4c47",
+        "android_client_info": {
+          "package_name": "com.example.go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77689841222-6g0or0bavgd35qjo15sip0mee53ol9bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXf-Z1rXA8LfsCIE-GR6O00sNL9xkZ4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77689841222-6g0or0bavgd35qjo15sip0mee53ol9bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77689841222-fvqac0kunmg18oesq97soff09l81vd9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rememberme.go"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
